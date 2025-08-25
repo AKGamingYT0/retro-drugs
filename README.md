@@ -1,3 +1,7 @@
+# Archive
+## New, good version will be released soon by Orchid Studios
+This one has to many problems
+
 # retro-drugs
 FiveM resource that adds opportunity to deal drugs to NPCs with NPC Voice lines
 
